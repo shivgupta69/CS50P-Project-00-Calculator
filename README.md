@@ -7,7 +7,7 @@ Description:
 
 Introduction
 
-Hi, I’m Shiv Shankar Prasad Gupta, and this is my CS50P Project0 . For my project, I built a command-line calculator in Python.
+Hi, I’m Shiv Shankar Prasad Gupta, and this is my CS50P Project00 . For my project, I built a command-line calculator in Python.
 
 The goal was simple: create a calculator that does the basics really well, but also shows good programming practices like modular design, error handling, and automated testing with pytest.
 
